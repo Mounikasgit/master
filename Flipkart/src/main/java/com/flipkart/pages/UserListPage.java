@@ -25,6 +25,8 @@ public WebElement getSuccesMsg()
 	
 }
 
+
+
 public String getTextSuccessMsg()
 {
 	return successMsg.getText();
