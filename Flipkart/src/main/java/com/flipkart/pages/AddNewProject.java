@@ -9,6 +9,7 @@ import com.flipkart.genericLib.BaseTest;
 
 public class AddNewProject
 
+
 { 
 @FindBy(xpath="//select[@name='customerId']") private WebElement customer;
 @FindBy(xpath="//input[@name='name']") private WebElement projectname;
