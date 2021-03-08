@@ -20,6 +20,7 @@ public void clickAddNewUserBtn()
 	addNewUserBtn.click();
 }
 public WebElement getSuccesMsg()
+
 {
 	return successMsg;
 	
